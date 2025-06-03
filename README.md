@@ -1,3 +1,3 @@
 # US-Visa-Approval-Prediction
 
-hi
+An end-to-end machine learning project, using Flask for deployment
