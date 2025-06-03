@@ -19,6 +19,6 @@ boto3
 mypy-boto3-s3
 botocore
 flask
-guvicorn
+gunicorn
 python-multipart
 -e .
